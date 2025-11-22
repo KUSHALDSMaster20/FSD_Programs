@@ -1,0 +1,3 @@
+student id = ${student.sid}<br>
+student name = ${student.sname}<br>
+are deleted succefully.........
